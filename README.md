@@ -1,22 +1,29 @@
- # Intermediate SQL - Sales Analysis
+# Intermediate SQL - Sales Analysis
 
- ## Overview
+## Overview
 This project is based on a tutorial from Luke Barousse ([link](https://youtu.be/QKIGsShyEsQ?si=qH8l4tPs93qXxf9Y)), which I followed to learn the workflow for analysing customer behaviour and retention using SQL. I then built on the tutorial by creating visualisations in Excel using the query outputs. 
 
 The project explores customer behaviour, retention, and lifetime value for an e‑commerce company to improve customer retention and maximise revenue.
 
- ### Tools 
+### Tools 
 - **Database:** PostgreSQL
 - **Analysis Tools:** DBeaver, pgAdmin
 - **Visualisation:** Excel (charts created from exported query results)
 
- ## Business Questions
+## Business Questions
 
- 1. **Customer Segmentation:**
+ 1. **Customer Segmentation:** Who are the most valuable customers?
  2. **Cohort Analysis:** How do different customer groups generate revenue?
- 3. **Customer Retention:** 
+ 3. **Customer Retention:** Which customers haven't purchased recently?
 
-## Analysis Approach
+## Clean Data
+Query: [0_create_view.sql](0_create_view.sql)
+
+- Aggregated sales and customer data into revenue metrics
+- Calculated first purchase dates for cohort analysis
+- Created view combining transactions and customer details
+
+## Analysis
 
 ### 1. Customer Segementation Analysis
 
