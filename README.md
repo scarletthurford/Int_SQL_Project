@@ -1,7 +1,7 @@
 # Intermediate SQL - Sales Analysis
 
 ## Overview
-This project is based on a tutorial from Luke Barousse ([link](https://youtu.be/QKIGsShyEsQ?si=qH8l4tPs93qXxf9Y)), which I followed to learn the workflow for analysing customer behaviour and retention using SQL. I then built on the tutorial by creating visualisations in Excel using the query outputs. 
+This project is based on a tutorial from Luke Barousse, titled SQL for Data Analytics – Intermediate Course + Project ([link](https://youtu.be/QKIGsShyEsQ?si=qH8l4tPs93qXxf9Y)), which I followed to learn the workflow for analysing customer behaviour and retention using SQL. I then built on the tutorial by creating visualisations in Excel using the query outputs. 
 
 The project explores customer behaviour, retention, and lifetime value for an e‑commerce company to improve customer retention and maximise revenue.
 
