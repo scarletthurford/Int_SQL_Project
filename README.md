@@ -24,6 +24,10 @@
 
 Query: [1_customer_segmentation.sql](1_customer_segmentation.sql)
 
+**Visualisation:**
+
+<img src="Images/customer_segmentation.png" width="450">
+
 **Key Findings:**
 
 - High-value segment (25% of customers) drives 66% of revenue
@@ -42,6 +46,10 @@ Query: [1_customer_segmentation.sql](1_customer_segmentation.sql)
 - Analysed customer retention at a cohort level
 
 Query: [2_cohort_analysis.sql](/2_cohort_analysis.sql)
+
+**Visualisation:**
+
+<img src="Images/cohort_analysis.png" width="450">
 
 **Key Findings:**
 
